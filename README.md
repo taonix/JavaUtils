@@ -2,7 +2,7 @@
 
 > Hello ! Welcome to JavaUtils ! A simple java class for your all projects !
 
-**FAQ : **
+**FAQ :**
 
 > What is that ? <br/>
 That is just a java class :D
