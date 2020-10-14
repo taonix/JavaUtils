@@ -2,9 +2,10 @@
 Simple things for dev
 
 # ChangeLog: 10/14/20
-File update !
 
-New implementations :
+The new update is the file update ! More fonctions to manipulate any file you want !
+
+**New implementations :
 
 - Create File
 - Delete File
