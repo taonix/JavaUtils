@@ -5,7 +5,7 @@ Simple things for dev
 
 The new update is the file update ! More fonctions to manipulate any file you want !
 
-**New implementations :
+**New implementations :**
 
 - Create File
 - Delete File
