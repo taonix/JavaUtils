@@ -3,6 +3,11 @@ import java.util.*;
 
 public class JavaUtils {
 
+    /**
+     * Class by Taonix
+     * Helped by Automgen
+     */
+
     public static void main(String[] args) {
 
     }
