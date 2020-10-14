@@ -2,12 +2,12 @@
 
 > Hello ! Welcome to JavaUtils ! A simple java class for your all projects !
 
-# FAQ
+**FAQ : **
 
-> What is that ?
+> What is that ? \t
 That is just a java class :D
 
-> What she make
+> What she make \t
 She more more utiles things like preformer random or easy create files and modify it.= !
 
 # ChangeLog: 10/14/20
