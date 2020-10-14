@@ -7,7 +7,7 @@
 > What is that ? <br/>
 That is just a java class :D
 
-> What she make <br/>
+> What she can make <br/>
 She more more utiles things like preformer random or easy create files and modify it.= !
 
 # ChangeLog: 10/14/20
