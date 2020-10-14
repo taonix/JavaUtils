@@ -4,10 +4,10 @@
 
 **FAQ : **
 
-> What is that ? \t
+> What is that ? <br/>
 That is just a java class :D
 
-> What she make \t
+> What she make <br/>
 She more more utiles things like preformer random or easy create files and modify it.= !
 
 # ChangeLog: 10/14/20
