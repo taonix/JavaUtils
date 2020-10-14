@@ -1,5 +1,14 @@
 # JavaUtils
-Simple things for dev
+
+> Hello ! Welcome to JavaUtils ! A simple java class for your all projects !
+
+# FAQ
+
+> What is that ?
+That is just a java class :D
+
+> What she make
+She more more utiles things like preformer random or easy create files and modify it.= !
 
 # ChangeLog: 10/14/20
 
@@ -15,3 +24,4 @@ Simple things for dev
 - Rename Directory
 - Modify in to any files type
 
+and more !
