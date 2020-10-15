@@ -10,6 +10,14 @@ That is just a java class :D
 > **What she can make** <br/>
 She more more utiles things like preformer random or easy create files and modify it.= !
 
+# ChangeLog: 10/15/20
+
+> The day update is about the JSON
+
+**New implementations :**
+
+- Read JSOn from URL
+
 # ChangeLog: 10/14/20
 
 > The new update is the file update ! More fonctions to manipulate any file you want !
