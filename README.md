@@ -12,7 +12,7 @@ She more more utiles things like preformer random or easy create files and modif
 
 # ChangeLogs
 
-## ChangeLog of 10/15/20 :
+## JSON | 10/15/20 :
 
 > The day update is about the JSON
 
@@ -20,7 +20,7 @@ She more more utiles things like preformer random or easy create files and modif
 
 - Read JSON File from web
 
-## ChangeLog of 10/14/20 :
+## File | 10/14/20 :
 
 > The new update is the file update ! More fonctions to manipulate any file you want !
 
