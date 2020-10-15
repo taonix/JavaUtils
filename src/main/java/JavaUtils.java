@@ -26,6 +26,13 @@ public class JavaUtils {
         return sb.toString();
     }
 
+    /**
+     *
+     * @param url :String
+     * @return JSON object
+     * @throws IOException
+     * @throws JSONException
+     */
     public static JSONObject readJsonFromUrl(String url) throws IOException, JSONException {
         InputStream is = new URL(url).openStream();
         try {
