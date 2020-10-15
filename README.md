@@ -15,7 +15,7 @@ It more more utiles things like preformer random or easy create files and modify
 ```Java
 import java.util.Arrays;
 
-public class test {
+public class exemple {
 
     public static void main(String[] args) {
         String[] str = JavaUtils.ABCsort(new String[]{"h", "aef", "(", "cfezrg"});
