@@ -28,6 +28,10 @@ public class JavaUtils {
 
     /**
      *
+     * EN : get JSON object with an URL (for API)
+     * FR : renvoie un objet JSON avec une URL (souvent pour les API)
+     *
+     *
      * @param url :String
      * @return JSON object
      * @throws IOException
