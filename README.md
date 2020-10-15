@@ -7,10 +7,10 @@
 > **What is that ?** <br/>
 That is just a java class :D
 
-> **What she can make** <br/>
-She more more utiles things like preformer random or easy create files and modify it.= !
+> **What it can make** <br/>
+It more more utiles things like preformer random or easy create files and modify it.= !
 
-**Exemples :**
+**Examples :**
 
 ```Java
 import java.util.Arrays;
