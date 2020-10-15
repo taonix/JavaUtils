@@ -10,6 +10,21 @@ That is just a java class :D
 > **What she can make** <br/>
 She more more utiles things like preformer random or easy create files and modify it.= !
 
+**Exemples :**
+
+```Java
+import java.util.Arrays;
+
+public class test {
+
+    public static void main(String[] args) {
+        String[] str = JavaUtils.ABCsort(new String[]{"h", "aef", "(", "cfezrg"});
+        System.out.println(Arrays.toString(str));
+
+    }
+}
+```
+
 # ChangeLogs
 
 ## JSON | 10/15/20 :
