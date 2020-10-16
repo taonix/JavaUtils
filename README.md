@@ -31,7 +31,7 @@ public class exemple {
 
 > The day update is about the JSON
 
-**New implementations :**
+**New features :**
 
 - Read JSON File from web
 
@@ -39,7 +39,7 @@ public class exemple {
 
 > The new update is the file update ! More fonctions to manipulate any file you want !
 
-**New implementations :**
+**New features :**
 
 - Create File
 - Delete File
