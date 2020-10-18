@@ -29,7 +29,7 @@ public class exemple {
 
 ## JSON | 10/15/20 :
 
-> The day update is about the JSON
+> The update is about the JSON
 
 **New features :**
 
