@@ -10,7 +10,7 @@ That is just a java class :D
 > **What it can make** <br/>
 It more more utiles things like preformer random or easy create files and modify it.= !
 
-**Examples :**
+**Examples for use :**
 
 ```Java
 import java.util.Arrays;
