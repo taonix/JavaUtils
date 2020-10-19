@@ -1,6 +1,6 @@
 # JavaUtils
 
-> Hello ! Welcome to JavaUtils ! A simple java class for your all projects !
+Hello everyone ! Welcome to JavaUtils ! A simple java class for your all projects !
 
 **FAQ :**
 
