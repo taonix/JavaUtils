@@ -8,7 +8,7 @@ Hello everyone ! Welcome to JavaUtils ! A simple java class for your all project
 That is just a java class :D
 
 > **What it can make** <br/>
-It more more utiles things like preformer random or easy create files and modify it.= !
+It more more utiles things like preformer random or easy create files and modify it !
 
 **Examples for use the class on your project :**
 
