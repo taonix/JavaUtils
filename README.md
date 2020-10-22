@@ -1,4 +1,4 @@
-# JavaUtils
+# JavaUtils - Java Class
 
 Hello everyone ! Welcome to JavaUtils ! A simple java class for your all projects !
 
