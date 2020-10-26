@@ -49,4 +49,4 @@ public class exemple {
 - Rename Directory
 - Modify in to any files type
 
-and more comming soon !
+and more comming soon on thé class!
