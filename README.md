@@ -18,7 +18,7 @@ import java.util.Arrays;
 public class exemple {
 
     public static void main(String[] args) {
-        String[] str = JavaUtils.ABCsort(new String[]{"h", "aef", "(", "cfezrg"});
+        String[] str = JavaUtils.ABCsort(new String[]{"h", "aef", "(", "cfezrg","42"});
         System.out.println(Arrays.toString(str));
 
     }
