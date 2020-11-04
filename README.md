@@ -1,6 +1,6 @@
 # JavaUtils - Open source Java Class
 
-Hello everyone, welcome to JavaUtils ! A simple java class for your all projects !
+Hello everyone, welcome to JavaUtils ! It's a simple java class for your all projects !
 
 **FAQ :**
 
