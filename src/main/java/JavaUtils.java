@@ -1,10 +1,20 @@
+import java.awt.*;
 import java.io.*;
+import java.net.MalformedURLException;
+import java.net.URISyntaxException;
 import java.net.URL;
+import java.net.URLConnection;
 import java.nio.charset.Charset;
 import java.util.*;
+import java.util.List;
 
+import jdk.jfr.internal.tool.Main;
 import org.json.JSONException;
 import org.json.JSONObject;
+
+import javax.sound.sampled.AudioInputStream;
+import javax.sound.sampled.AudioSystem;
+import javax.sound.sampled.Clip;
 
 public class JavaUtils {
 
@@ -212,6 +222,45 @@ public class JavaUtils {
         else {
             return "Error: Line 0 dose not exist!!";
         }
+    }
+
+    /**
+     *
+     * EN: Open en URL
+     * FR : Ouvrir une URL
+     *
+     * @param Url
+     * @throws IOException
+     */
+    public static void openURL(String Url) throws IOException {
+        try
+        {
+            Desktop.getDesktop().browse(new URL(Url).toURI());
+        }
+        catch(URISyntaxException | IOException e){}
+    }
+
+    /**
+     *
+     * EN : Play audio file
+     * FR : Joue un fichier audio
+     *
+     * @param path :String
+     */
+    public static synchronized void playSound(final String path) {
+        new Thread(new Runnable() {  // Pour le multi tâches XD
+            public void run() {
+                try {
+                    Clip clip = AudioSystem.getClip();
+                    AudioInputStream inputStream = AudioSystem.getAudioInputStream(
+                            Main.class.getResourceAsStream(path));
+                    clip.open(inputStream);
+                    clip.start();
+                } catch (Exception e) {
+                    System.err.println(e.getMessage());
+                }
+            }
+        }).start();
     }
 
     /**

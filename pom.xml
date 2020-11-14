@@ -6,7 +6,38 @@
 
     <groupId>fr.taonix</groupId>
     <artifactId>JU</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1</version><build><plugins><plugin>
+    <artifactId/>
+    <configuration>
+            <source>5</source>
+            <target>5</target>
+        </configuration>
+    </plugin>
+    <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+            <source>6</source>
+            <target>6</target>
+        </configuration>
+    </plugin>
+    <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+            <source>6</source>
+            <target>6</target>
+        </configuration>
+    </plugin>
+    <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+            <source>7</source>
+            <target>7</target>
+        </configuration>
+    </plugin>
+</plugins></build>
     <dependencies>
         <dependency>
             <groupId>org.json</groupId>
