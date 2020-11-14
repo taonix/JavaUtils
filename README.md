@@ -1,27 +1,45 @@
-# JavaUtils
+# JavaUtils - Open source Java Class
 
-> Hello ! Welcome to JavaUtils ! A simple java class for your all projects !
+Hi everyone, welcome to JavaUtils, it's a simple java class for your all projects !
 
 **FAQ :**
 
 > **What is that ?** <br/>
 That is just a java class :D
 
-> **What she can make** <br/>
-She more more utiles things like preformer random or easy create files and modify it.= !
+> **What it can make** <br/>
+It more more utiles things like preformer random or easy create files and modify it !
 
-# ChangeLog: 10/15/20
+**Examples for use the class on your project :**
 
-> The day update is about the JSON
+```Java
+import java.util.Arrays;
 
-**New implementations :**
+public class exemple {
+
+    public static void main(String[] args) {
+        String[] str = JavaUtils.ABCsort(new String[]{"h", "aef", "(", "cfezrg","42"});
+        System.out.println(Arrays.toString(str));
+
+    }
+}
+```
+
+# ChangeLogs
+
+## JSON | 10/15/20 :
+
+> The update is about the JSON
+
+**New features :**
 
 - Read JSON File from web
-# ChangeLog: 10/14/20
+
+## File | 10/14/20 :
 
 > The new update is the file update ! More fonctions to manipulate any file you want !
 
-**New implementations :**
+**New features :**
 
 - Create File
 - Delete File
@@ -31,4 +49,4 @@ She more more utiles things like preformer random or easy create files and modif
 - Rename Directory
 - Modify in to any files type
 
-and more !
+and more comming soon on thé class!
