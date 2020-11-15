@@ -27,6 +27,10 @@ public class exemple {
 
 # ChangeLogs
 
+## URL | 11/15/2020 :
+
+> The update is for open urls !
+
 ## JSON | 10/15/20 :
 
 > The update is about the JSON
