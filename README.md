@@ -29,7 +29,7 @@ public class exemple {
 
 ## URL | 11/15/2020 :
 
-> The update is for open urls !
+> The update is for open urls !!
 
 ## JSON | 10/15/20 :
 
