@@ -31,9 +31,17 @@ public class exemple {
 
 > The day update allows you to open any file with any OS !
 
+**New features :**
+
+- Open any file with function called openFile();
+
 ## URL | 11/15/2020 :
 
 > The update is for open urls !!
+
+**New features :**
+
+- Open any url's with function called openUrl();
 
 ## JSON | 10/15/20 :
 
@@ -41,6 +49,7 @@ public class exemple {
 
 **New features :**
 
+- Open any JSON with function called readJsonFromUrl();
 - Read JSON File from web
 
 ## File | 10/14/20 :
