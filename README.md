@@ -27,6 +27,10 @@ public class exemple {
 
 # ChangeLogs
 
+## Open Files | 11/18/20 :
+
+> The day update allows you to open any file with any OS !
+
 ## URL | 11/15/2020 :
 
 > The update is for open urls !!
