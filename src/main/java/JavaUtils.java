@@ -23,9 +23,7 @@ public class JavaUtils {
      * Helped by Automgen
      */
 
-    public static void main(String[] args) throws IOException {
 
-    }
 
     private static String readAll(Reader rd) throws IOException {
         StringBuilder sb = new StringBuilder();
@@ -71,6 +69,10 @@ public class JavaUtils {
      */
     public static int CustomRandom(int Min, int Max) {
         return Min + (int)(Math.random() * ((Max - Min) + 1));
+    }
+
+    public static void openFile(String path) throws IOException {
+        Desktop.getDesktop().open(new File(path));
     }
 
     /**
