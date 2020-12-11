@@ -1,5 +1,7 @@
 # JavaUtils - Open source Java Class
 
+Support by JetBrain (https://www.jetbrains.com/?from=taonix)
+
 Hi everyone, welcome to JavaUtils, it's a simple java class for your all projects !
 
 **FAQ :**
